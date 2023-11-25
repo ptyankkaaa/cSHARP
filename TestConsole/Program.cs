@@ -9,23 +9,23 @@ namespace TestConsole;
 
 class Program
 {
-    public static double Calculate(int amountOFcredit, int interestRate, int depositTerm)
+    public static double Calculate(double amountOFcredit, double interestRate, double depositTerm)
     {
-        return amountOFcredit*((1+(interestRate/100))*depositTerm);
+        return amountOFcredit * Math.Pow((1+(interestRate/(100*12))),depositTerm);
     }
     static void Main(string[] args)
     {
 
         Console.WriteLine("Enter amount of credit");
-        int amountOFcredit = Convert.ToInt32(Console.ReadLine());
+        double amountOFcredit = Convert.ToDouble(Console.ReadLine());
         
 
         Console.WriteLine("Enter interest rate in percent");
-        int interestRate = Convert.ToInt32(Console.ReadLine());
+        double interestRate = Convert.ToDouble(Console.ReadLine());
         
 
         Console.WriteLine("Enter the deposit term in months");
-        int depositTerm = Convert.ToInt32(Console.ReadLine());
+        double depositTerm = Convert.ToDouble(Console.ReadLine());
         
 
         Console.WriteLine($"Amount of credit : {amountOFcredit}");
