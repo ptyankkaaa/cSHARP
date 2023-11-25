@@ -5,13 +5,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloWorld;
+namespace TestConsole;
 
 class Program
 {
     public static double Calculate(int amountOFcredit, int interestRate, int depositTerm)
     {
-        return amountOFcredit*((1+(interestRate/12))^depositTerm);
+        return amountOFcredit*((1+(interestRate/100))*depositTerm);
     }
     static void Main(string[] args)
     {
