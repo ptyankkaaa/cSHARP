@@ -1,0 +1,15 @@
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.GeneratedMSBuildEditorConfig.editorconfig
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.AssemblyInfoInputs.cache
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.AssemblyInfo.cs
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.csproj.CoreCompileInputs.cache
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.sourcelink.json
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\bin\Debug\net8.0\TestConsole2.exe
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\bin\Debug\net8.0\TestConsole2.deps.json
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\bin\Debug\net8.0\TestConsole2.runtimeconfig.json
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\bin\Debug\net8.0\TestConsole2.dll
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\bin\Debug\net8.0\TestConsole2.pdb
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.dll
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\refint\TestConsole2.dll
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.pdb
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\TestConsole2.genruntimeconfig.cache
+C:\studies\LangProg\shared_folder\cSharp\TestConsole2\obj\Debug\net8.0\ref\TestConsole2.dll
