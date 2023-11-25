@@ -1,0 +1,14 @@
+C:\cSharp\TestConsole\bin\Debug\net8.0\TestConsole.exe
+C:\cSharp\TestConsole\bin\Debug\net8.0\TestConsole.deps.json
+C:\cSharp\TestConsole\bin\Debug\net8.0\TestConsole.runtimeconfig.json
+C:\cSharp\TestConsole\bin\Debug\net8.0\TestConsole.dll
+C:\cSharp\TestConsole\bin\Debug\net8.0\TestConsole.pdb
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.AssemblyInfoInputs.cache
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.AssemblyInfo.cs
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.dll
+C:\cSharp\TestConsole\obj\Debug\net8.0\refint\TestConsole.dll
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.pdb
+C:\cSharp\TestConsole\obj\Debug\net8.0\TestConsole.genruntimeconfig.cache
+C:\cSharp\TestConsole\obj\Debug\net8.0\ref\TestConsole.dll
