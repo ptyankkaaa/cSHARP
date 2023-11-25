@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\cSharp\\TestConsole\\TestConsole.csproj",
+      "projectUniqueName": "C:\\studies\\LangProg\\shared_folder\\cSharp\\cSharp\\TestConsole.csproj",
       "projectName": "TestConsole",
-      "projectPath": "C:\\cSharp\\TestConsole\\TestConsole.csproj",
+      "projectPath": "C:\\studies\\LangProg\\shared_folder\\cSharp\\cSharp\\TestConsole.csproj",
       "packagesPath": "C:\\Users\\ptyan\\.nuget\\packages\\",
-      "outputPath": "C:\\cSharp\\TestConsole\\obj\\",
+      "outputPath": "C:\\studies\\LangProg\\shared_folder\\cSharp\\cSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ptyan\\AppData\\Roaming\\NuGet\\NuGet.Config"
