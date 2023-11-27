@@ -12,16 +12,16 @@ class Program
     public static double Calculate(string userInput)
     {
         string[] values = userInput.Split(' ');
-        var amountOFcredit = Convert.ToDouble(values[0]);
-        var interestRate = Convert.ToInt32(values[1]);
-        var depositTerm = Convert.ToInt32(values[2]);
+        var amountOFcredit = Convert.ToInt32(values[0]);
+        var interestRate = Convert.ToDouble(values[1]);
+        var depositTerm = Convert.ToDouble(values[2]);
         return amountOFcredit * Math.Pow((1+(interestRate/(100*12))),depositTerm);
     }
     static void Main(string[] args)
     {
     
         Console.WriteLine("Enter data:");
-        double[] str = Console.ReadLine();
+        string str = Console.ReadLine();
         Console.WriteLine($"SUM = {Calculate(str)}");
     }
 }
